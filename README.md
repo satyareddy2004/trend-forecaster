@@ -1,4 +1,4 @@
-# Social Media Trend Analytics — Trend Forecaster
+# Trend Forecaster
 
 An interactive social media analytics dashboard developed using Python, Dash, Plotly, and Pandas to explore word frequencies and hourly activity patterns in historical Twitter data.
 
@@ -103,7 +103,7 @@ Developed collaboratively as part of undergraduate academic work.
 ## Repository Contents
 
 ```text
-social-media-trend-analytics/
+trend-forecaster/
 ├── ScreenShots/
 ├── trend_detection_app.py
 ├── .gitignore
